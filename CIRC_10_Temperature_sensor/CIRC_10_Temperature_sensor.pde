@@ -12,6 +12,7 @@ int pos = 0;    // variable to store the servo position
 int outsideTemp = 0;
 int insideTemp = 1;
 
+// another change.
 
 void setup() 
 { 
